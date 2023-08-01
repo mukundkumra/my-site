@@ -1,0 +1,173 @@
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+body {
+  margin: 0;
+  padding-bottom: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: 'Roboto Slab', serif;
+  font-size: 5rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 55px;
+}
+
+h2 {
+  color: #1e836c;
+  font-family: 'Roboto Slab', serif;
+font-size: 1.5rem;
+font-weight: bold;
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+
+h3 {
+  color: #45b29a;
+  font-family: 'Roboto Slab', serif;
+font-size: 1.17rem;
+font-weight: bold;
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+
+hr {
+  background-color: #e0ebe8;
+  border-style: none;
+  height: 3px;
+  margin-bottom: 75px;
+  margin-top: 75px;
+}
+
+p {
+  color: #545454;
+  font-family: 'Roboto', sans-serif;
+}
+
+table {
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+td {
+  width: 500px;
+}
+
+.bottom-cloud {
+  margin: auto;
+  position: absolute;
+  right: 500px;
+  top: 100px;
+  width: 150px;
+}
+
+.bottom-container {
+  background-color: #8ccbbe;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.btn {
+  background-color: #45b29a;
+  border-radius: 4px;
+  color: #1b7f69;
+  margin-bottom: 25px;
+  padding: 0.75rem 1.5rem 0.75rem 1.5rem;
+  position: relative;
+  top: 25px;
+}
+
+.btn:hover {
+  background-color: #3ea08a;
+  color: #1b7f69;
+}
+
+.cloudy {
+  position: relative;
+  margin: auto;
+  height: 187px;
+  width: 500px;
+}
+
+.copyright {
+  color: #3797a4;
+  font-size: 0.875rem;
+  position: relative;
+  top: 10px;
+}
+
+.fa-envelope {
+  padding-right: 5px;
+}
+
+.footer-link {
+  color: #3797a4;
+  margin: 15px;
+}
+
+.img1 {
+  width: 175px;
+padding-bottom: 17.5px;
+}
+
+.img2 {
+  width: 175px;
+padding-bottom: 17.5px;
+}
+
+.middle-container {
+  padding-bottom: 100px;
+  padding-top: 100px;
+  position: relative;
+}
+
+.mountain {
+  margin-bottom: 0;
+  position: relative;
+  top: 4px;
+}
+
+.sub {
+  font-size: 1.5rem;
+  margin-top: 0;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+}
+
+.sub {
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+.top-cloud {
+  bottom: 175px;
+  left: 475px;
+  margin: auto;
+  position: absolute;
+  width: 150px;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 150px;
+padding-bottom: 4px;
+  position: relative;
+
+::selection {
+  color: #3b6978;
+  background-color: #aacfcf;
+}
